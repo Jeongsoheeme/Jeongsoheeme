@@ -7,13 +7,13 @@
 <br>
 <br>
 <h2>Projects</h2>
-<h3><a href="https://develog.jeongsohee.com">Develog</a></h3>
+<h3><a href="https://github.com/Develog-Tools-for-team-productivity/Develog">Develog</a></h3>
 개인프로젝트 | 개발 14일, 기획 7일 (3주)<br><br>
 
 > Develog는 깃허브 기반 개발팀 생산성 향상 도구입니다.<br>
 > 개발 과정의 비효율성을 데이터 분석으로 식별하고 개선하여 팀의 생산성과 프로젝트 관리 효율성을 높이기 위해 만들었습니다.
 
-<h3><a href="https://develog.jeongsohee.com">Origami</a></h3>
+<h3><a href="https://github.com/Origami-5M/Origami">Origami</a></h3>
 팀프로젝트 (3명) | 개발 14일, 기획 7일 (3주)<br><br>
 
 > Origami:3D는 아날로그 종이접기를 구현한 종이접기 3D 시뮬레이션 입니다.<br>
